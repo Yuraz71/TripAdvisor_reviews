@@ -1,0 +1,10 @@
+.idea/
+*.pyc
+.cache/
+workspace/
+.scrapy/
+data
+loss.png
+*.egg-info
+new*.txt
+*.docx
